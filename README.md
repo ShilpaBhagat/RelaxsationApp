@@ -21,3 +21,17 @@ Practicing relaxation techniques can have many benefits, including:
 -Boosting confidence to handle problems
 
 To get the most benefit, use relaxation techniques along with other positive coping methods, such as thinking positively, finding humor, problem-solving, managing time, exercising, getting enough sleep, and reaching out to supportive family and friends.
+
+Getting Started:
+Prerequisites
+1. Be sure you have npm, node, express installed. 
+2. Also you need a pug 
+
+Installtion: 
+1. Clone the repository 
+git clone ssh://git@bitbucket.kenzan.com:7999/hac/self-relaxation.git
+
+2. Run app.js
+node app.js
+
+3. Go to localhost:3000 on your chrome browser. 
